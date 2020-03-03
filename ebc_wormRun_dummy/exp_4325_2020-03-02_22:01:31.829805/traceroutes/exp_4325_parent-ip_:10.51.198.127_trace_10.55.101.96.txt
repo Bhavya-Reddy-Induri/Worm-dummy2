@@ -1,0 +1,5 @@
+traceroute to 10.55.101.96 (10.55.101.96), 30 hops max, 60 byte packets
+ 1  v1-2167-53-0707-gw.gsu.edu (10.51.198.1)  1.755 ms  1.566 ms  1.698 ms
+ 2  V0-4050-00-0053-gw.gsu.edu (10.32.5.157)  1.717 ms V0-4049-00-0053-gw.gsu.edu (10.32.5.153)  1.266 ms V0-4050-00-0053-gw.gsu.edu (10.32.5.157)  1.548 ms
+ 3  rt640501-rt000001-gw.gsu.edu (10.32.8.126)  1.122 ms  1.005 ms  1.185 ms
+ 4  raspberrypi.dyn.gsu.edu (10.55.101.96)  0.457 ms  0.738 ms  0.663 ms
